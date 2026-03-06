@@ -21,7 +21,7 @@ Detecting objects under low-light conditions remains a formidable challenge due 
 
 ## 📜 Network Architecture
 <p align="center">
-<img src=https://github.com/dlgxwcvhehks/MIPNet/blob/main/Architecture.png width="700px" height=300px">
+<img src=https://github.com/dlgxwcvhehks/MIPNet/blob/main/Architecture.png width="750px" height=400px">
 </p>
 
 
