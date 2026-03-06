@@ -123,17 +123,15 @@ If you find this work useful, please cite
 
 
 ``` citation
-@article{du2023boosting,
-  title={Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation},
-  author={Du, Zhipeng and Shi, Miaojing and Deng, Jiankang},
-  journal={arXiv preprint arXiv:2312.01220},
-  year={2023}
+@article{MIPNet,
+  title={Illumination-Invariant Representation Learning with Multiple Priors for Low-Light Object Detection},
+  author={Q. Zhao, G. Li, T. Pang, and M. Gao},
+  journal={},
+  year={2026}
 }
 ```
 
 
 
-## 🔎 Acknowledgement
 
-We thank [DSFD.pytorch](https://github.com/yxlijun/DSFD.pytorch), [RetinexNet_PyTorch](https://github.com/aasharma90/RetinexNet_PyTorch), [MAET](https://github.com/cuiziteng/ICCV_MAET), [HLA-Face](https://github.com/daooshee/HLA-Face-Code) for their amazing works!
 
