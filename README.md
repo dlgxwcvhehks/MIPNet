@@ -21,7 +21,7 @@ Detecting objects under low-light conditions remains a formidable challenge due 
 
 ## 📜 Network Architecture
 <p align="center">
-<img src=https://github.com/MingboHong/YOLA/blob/master/figures/yola_ppl.png width="580px" height=230px">
+<img src=https://github.com/dlgxwcvhehks/MIPNet/blob/main/Architecture.png width="580px" height=230px">
 </p>
 
 
