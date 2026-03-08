@@ -86,16 +86,18 @@ The dataset structure should be like:
 Before running evaluation, please download the required pretrained models:
 
 
-(1) QueryRCNN Backbone: Please download [queryrcnn_r101_cascade_300pro_3x_f7617a4d.pth](https://drive.google.com/file/d/1Gd8XYFiS0cxVKo-UPAZ_3G4AaescmH2X/view?usp=drive_link) and place it under MIPNet/MIPNet-main/.
+(1) QueryRCNN Backbone: Please download [queryrcnn_r101_cascade_300pro_3x_f7617a4d.pth](https://drive.google.com/file/d/1Gd8XYFiS0cxVKo-UPAZ_3G4AaescmH2X/view?usp=drive_link) and place it under MIPNet/MIPNet-main/checkpoint/.
 
 (2) Depth Estimation Model: Please download [depth_anything_v2_vits.pth](https://drive.google.com/file/d/1VyYBHX4jd1zWnO9-7QDzTyzfcwzwbG1d/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/Illumination_Invariant/depth_anything_v2/.
+
+(3) CLIP Model: Please download [https://drive.google.com/file/d/1QUBfWar4xwKzPMDd7Cm-3_MomO7ZIhCU/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/CLIP/.
 
 ### Download Our Trained Models
 Please download the trained checkpoints and place it under MIPNet/MIPNet-main/checkpoint/.
 | Datasets  | Checkpoints           |
 |------------|-----------------------|
 | ExDark     | [model_exdark.pth](https://drive.google.com/file/d/1zT-Kj3nRDPp0b8SItmhB0fcZoWVdUt5m/view?usp=drive_link)      |
-| DarkFace   | [model_darkface.pth](https://drive.google.com/file/d/1zT-Kj3nRDPp0b8SItmhB0fcZoWVdUt5m/view?usp=drive_link)    |
+| DarkFace   | [https://drive.google.com/file/d/1l0oABe2Obkt841sitN6DBIJyYjKl4OGK/view?usp=drive_link)    |
 
 ## 📡 Evaluation
 
