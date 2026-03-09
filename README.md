@@ -39,7 +39,6 @@ pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https
 git clone https://github.com/facebookresearch/detectron2.git
 cd detectron2
 python -m pip install -e detectron2
-
 ```
 
 ## :notebook_with_decorative_cover: Dataset Preparation
