@@ -92,7 +92,7 @@ Before running evaluation, please download the required pretrained models:
 (3) CLIP Model: Please download [clip_cs_vit_b32_fixed.pth](https://drive.google.com/file/d/1QUBfWar4xwKzPMDd7Cm-3_MomO7ZIhCU/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/CLIP/.
 
 ### Download Our Trained Models
-Please download the trained checkpoints and place it under MIPNet/MIPNet-main/checkpoint/.
+Please download the trained checkpoints and place it under MIPNet/MIPNet-main/checkpoints/.
 | Datasets  | Checkpoints           |
 |------------|-----------------------|
 | ExDark     | [model_exdark.pth](https://drive.google.com/file/d/1nc9qNZzvtJ_0b4ryMnPQDNFL9TLE1Xtc/view?usp=drive_link)      |
@@ -106,7 +106,7 @@ python test_exdark.py \
     --config-file configs/exdark_config_test.yaml \
     --eval-only \
     --num-gpus 1 \
-    MODEL.WEIGHTS checkpoint/model_exdark.pth
+    MODEL.WEIGHTS checkpoints/model_exdark.pth
 ```
 ### Evaluate on DarkFace
 
@@ -115,7 +115,7 @@ python test_darkface.py \
     --config-file configs/darkface_config_test.yaml \
     --eval-only \
     --num-gpus 1 \
-    MODEL.WEIGHTS checkpoint/model_darkface.pth
+    MODEL.WEIGHTS checkpoints/model_darkface.pth
 ```
 
 ## 📑 Citation
