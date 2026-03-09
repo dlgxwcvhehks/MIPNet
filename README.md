@@ -89,7 +89,7 @@ Before running evaluation, please download the required pretrained models:
 
 (2) Depth Estimation Model: Please download [depth_anything_v2_vits.pth](https://drive.google.com/file/d/1VyYBHX4jd1zWnO9-7QDzTyzfcwzwbG1d/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/Illumination_Invariant/depth_anything_v2/.
 
-(3) CLIP Model: Please download [https://drive.google.com/file/d/1QUBfWar4xwKzPMDd7Cm-3_MomO7ZIhCU/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/CLIP/.
+(3) CLIP Model: Please download [clip_cs_vit_b32_fixed.pth](https://drive.google.com/file/d/1QUBfWar4xwKzPMDd7Cm-3_MomO7ZIhCU/view?usp=drive_link) and place it under MIPNet/MIPNet-main/queryrcnn/CLIP/.
 
 ### Download Our Trained Models
 Please download the trained checkpoints and place it under MIPNet/MIPNet-main/checkpoint/.
