@@ -96,8 +96,8 @@ Before running evaluation, please download the required pretrained models:
 Please download the trained checkpoints and place it under MIPNet/MIPNet-main/checkpoint/.
 | Datasets  | Checkpoints           |
 |------------|-----------------------|
-| ExDark     | [model_exdark.pth](https://drive.google.com/file/d/1zT-Kj3nRDPp0b8SItmhB0fcZoWVdUt5m/view?usp=drive_link)      |
-| DarkFace   | [https://drive.google.com/file/d/1l0oABe2Obkt841sitN6DBIJyYjKl4OGK/view?usp=drive_link)    |
+| ExDark     | [model_exdark.pth](https://drive.google.com/file/d/1nc9qNZzvtJ_0b4ryMnPQDNFL9TLE1Xtc/view?usp=drive_link)      |
+| DarkFace   | [model_darkface.pth](https://drive.google.com/file/d/1l0oABe2Obkt841sitN6DBIJyYjKl4OGK/view?usp=drive_link)    |
 
 ## 📡 Evaluation
 
