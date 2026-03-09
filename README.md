@@ -102,19 +102,19 @@ Please download the trained checkpoints and place it under MIPNet/MIPNet-main/ch
 
 ### Evaluate on ExDark
 ```
-python test_exdark.py \
-    --config-file configs/exdark_config_test.yaml \
-    --eval-only \
-    --num-gpus 1 \
+python test_exdark.py 
+    --config-file configs/exdark_config_test.yaml 
+    --eval-only 
+    --num-gpus 1 
     MODEL.WEIGHTS checkpoints/model_exdark.pth
 ```
 ### Evaluate on DarkFace
 
 ```
-python test_darkface.py \
-    --config-file configs/darkface_config_test.yaml \
-    --eval-only \
-    --num-gpus 1 \
+python test_darkface.py 
+    --config-file configs/darkface_config_test.yaml 
+    --eval-only 
+    --num-gpus 1 
     MODEL.WEIGHTS checkpoints/model_darkface.pth
 ```
 
