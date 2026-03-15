@@ -127,7 +127,7 @@ If you find this work useful, please cite
 @article{MIPNet,
   title={Illumination-Invariant Representation Learning with Multiple Priors for Low-Light Object Detection},
   author={Q. Zhao, G. Li, T. Pang, and M. Gao},
-  journal={},
+  journal={IEEE Transactions on Multimedia},
   year={2026}
 }
 ```
