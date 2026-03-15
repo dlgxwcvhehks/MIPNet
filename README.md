@@ -96,7 +96,7 @@ Please download the trained checkpoints and place it under MIPNet/MIPNet-main/ch
 | Datasets  | Checkpoints           |
 |------------|-----------------------|
 | ExDark     | [model_exdark.pth](https://drive.google.com/file/d/1nc9qNZzvtJ_0b4ryMnPQDNFL9TLE1Xtc/view?usp=drive_link)      |
-| DarkFace   | [model_darkface.pth](https://drive.google.com/file/d/1l0oABe2Obkt841sitN6DBIJyYjKl4OGK/view?usp=drive_link)    |
+| DarkFace   | [model_darkface.pth](https://drive.google.com/file/d/1mjTJ19-qMtxFWlic2jLZiflauuxMirQH/view?usp=drive_link)    |
 
 ## 📡 Evaluation
 
